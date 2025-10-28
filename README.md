@@ -14,7 +14,7 @@
 ---
 
 
-## 📘 Overview
+##  Overview
 
 This repository contains the complete implementation of **Assignment 2: DNS Query Resolution**, which involves:
 
