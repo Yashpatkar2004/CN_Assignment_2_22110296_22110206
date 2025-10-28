@@ -13,14 +13,16 @@
 
 ---
 
-## 🗂️ Overview
+##  Overview
 
 This repository contains the complete implementation of **Assignment 2: DNS Query Resolution in Mininet**.  
 The goal is to simulate a **multi-switch Mininet topology**, analyze **DNS query resolution** using both the default and a **custom DNS resolver**, and compare performance metrics through benchmarking and visualization.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
+
+
 CN331-Assignment2/
 │
 ├── topology.py # Part A: Mininet topology simulation
@@ -42,10 +44,9 @@ CN331-Assignment2/
 └── README.md # This file
 
 
-
 ---
 
-## ⚙️ Tasks Implemented
+##  Tasks Implemented
 
 | Task | Description | Status |
 |------|-------------|--------|
@@ -56,7 +57,7 @@ CN331-Assignment2/
 
 ---
 
-## 🌐 Network Topology
+##  Network Topology
 
       [H1]     [H2]     [H3]     [H4]
        |        |        |        |
@@ -77,7 +78,7 @@ Connectivity: Verified via pingall → 0% packet loss
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### **1️ Setup Environment**
 ```bash
