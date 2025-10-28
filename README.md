@@ -26,27 +26,27 @@ This repository contains the complete implementation of **Assignment 2: DNS Quer
 The project demonstrates a deep understanding of DNS resolution mechanisms, Mininet-based network simulation, and custom resolver design.
 
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 CN331-Assignment2/
 │
-├── topology.py # Part A: Mininet topology simulation
-├── dns_topo_custom.py # Part C: Topology with custom resolver
-├── custom_resolver.py # Part C/D: Simple forwarding DNS resolver
-├── partd_custom_resolver.py # Part D: Resolver with detailed logging
-├── Benchmark.py # Part B/D: Benchmark DNS queries from PCAPs
-├── plot_logs.py # Part D: Generate latency & DNS server plots
-├── PCAP_1_H1.pcap # Sample PCAP for Host 1
+├── topology.py                  # Part A: Mininet topology simulation
+├── dns_topo_custom.py           # Part C: Topology with custom resolver
+├── custom_resolver.py           # Part C/D: Simple forwarding DNS resolver
+├── partd_custom_resolver.py     # Part D: Resolver with detailed logging
+├── Benchmark.py                 # Part B/D: Benchmark DNS queries from PCAPs
+├── plot_logs.py                 # Part D: Generate latency & DNS server plots
+├── PCAP_1_H1.pcap               # Sample PCAP for Host 1
 ├── PCAP_1_H2.pcap
 ├── PCAP_1_H3.pcap
 ├── PCAP_1_H4.pcap
-├── dns_log1.csv # Logged query details
-├── D_latency_plot.png # Per-query latency plot
-├── D_servers_visited_plot.png # DNS servers visited per query
-├── report.pdf # Full LaTeX report (Tasks A–D)
-├── report.tex # Source LaTeX code
-├── images/ # Screenshots: pingall, nslookup, benchmarks
-└── README.md # This file
+├── dns_log1.csv                 # Logged query details
+├── D_latency_plot.png           # Per-query latency plot
+├── D_servers_visited_plot.png   # DNS servers visited per query
+├── report.pdf                   # Full LaTeX report (Tasks A–D)
+├── report.tex                   # Source LaTeX code
+├── images/                      # Screenshots: pingall, nslookup, benchmarks
+└── README.md                    # This file
 
 ---
 
