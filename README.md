@@ -26,7 +26,7 @@ This repository contains the complete implementation of **Assignment 2: DNS Quer
 The project demonstrates a deep understanding of DNS resolution mechanisms, Mininet-based network simulation, and custom resolver design.
 
 
-##```Repository Structure
+## 🗂️ Repository Structure
 
 
 CN331-Assignment2/
@@ -48,7 +48,6 @@ CN331-Assignment2/
 ├── report.tex # Source LaTeX code
 ├── images/ # Screenshots: pingall, nslookup, benchmarks
 └── README.md # This file
-
 
 ---
 
