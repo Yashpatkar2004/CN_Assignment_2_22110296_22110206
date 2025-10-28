@@ -13,12 +13,18 @@
 
 ---
 
-##```Overview
 
-This repository contains the complete implementation of **Assignment 2: DNS Query Resolution in Mininet**.  
-The goal is to simulate a **multi-switch Mininet topology**, analyze **DNS query resolution** using both the default and a **custom DNS resolver**, and compare performance metrics through benchmarking and visualization.
+## 📘 Overview
 
----
+This repository contains the complete implementation of **Assignment 2: DNS Query Resolution**, which involves:
+
+- Simulating a **multi-switch Mininet topology**
+- Performing **DNS query benchmarking** using default and custom resolvers
+- Implementing a **custom DNS proxy resolver**
+- Analyzing and **visualizing DNS performance metrics**
+
+The project demonstrates a deep understanding of DNS resolution mechanisms, Mininet-based network simulation, and custom resolver design.
+
 
 ##```Repository Structure
 
