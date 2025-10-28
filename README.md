@@ -27,7 +27,7 @@ The project demonstrates a deep understanding of DNS resolution mechanisms, Mini
 
 
 ##  Repository Structure
-'''
+
 CN331-Assignment2/
 │
 ├── topology.py                  # Part A: Mininet topology simulation
@@ -47,7 +47,6 @@ CN331-Assignment2/
 ├── report.tex                   # Source LaTeX code
 ├── images/                      # Screenshots: pingall, nslookup, benchmarks
 └── README.md                    # This file
-'''
 ---
 
 ##  Tasks Implemented
