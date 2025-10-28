@@ -28,7 +28,6 @@ The project demonstrates a deep understanding of DNS resolution mechanisms, Mini
 
 ## 🗂️ Repository Structure
 
-
 CN331-Assignment2/
 │
 ├── topology.py # Part A: Mininet topology simulation
@@ -41,13 +40,13 @@ CN331-Assignment2/
 ├── PCAP_1_H2.pcap
 ├── PCAP_1_H3.pcap
 ├── PCAP_1_H4.pcap
-── dns_log1.csv # Logged query details
-── D_latency_plot.png # Per-query latency plot
-── D_servers_visited_plot.png # DNS servers visited per query
-── report.pdf # Full LaTeX report (Tasks A–D)
-── report.tex # Source LaTeX code
-── images/ # Screenshots: pingall, nslookup, benchmarks
-── README.md # This file
+├── dns_log1.csv # Logged query details
+├── D_latency_plot.png # Per-query latency plot
+├── D_servers_visited_plot.png # DNS servers visited per query
+├── report.pdf # Full LaTeX report (Tasks A–D)
+├── report.tex # Source LaTeX code
+├── images/ # Screenshots: pingall, nslookup, benchmarks
+└── README.md # This file
 
 ---
 
